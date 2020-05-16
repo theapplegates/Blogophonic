@@ -9,7 +9,7 @@ disqusShortname = ""
 metaDataFormat = "yaml"
 pygmentsCodeFences = true
 pygmentsOptions = "linenos=table"
-# see more styles https://help.farbox.com/pygments.html
+# see more styles httpss://help.farbox.com/pygments.html
 pygmentsStyle = "friendly"
 footnoteReturnLinkContents = "&#8617;" # ↩
 # set deliberately low for testing choose your preffered number based on the blog layout you've chosen
@@ -22,11 +22,11 @@ preserveTaxonomyNames = true
   favicon = "/img/favicon.ico?v=0"
   logo = "/img/blogophonic-mark-dark.png"
   # font options: sans-serif or serif
-  # for more http://tachyons.io/docs/typography/font-family/
+  # for more https://tachyons.io/docs/typography/font-family/
   textFontFamily = "sans-serif"
   headingFontFamily = "sans-serif"
   # basic color options: use only color names as shown in the
-  # "Color Palette" section of http://tachyons.io/docs/themes/skins/
+  # "Color Palette" section of https://tachyons.io/docs/themes/skins/
   siteBgColor = "near-white"
   sidebarBgColor = "light-gray"
   headlineColor = "dark-pink"

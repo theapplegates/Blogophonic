@@ -20,7 +20,7 @@ layout: single
 
 ![Tachyons Logo Script](/blog/assets/tachyons-logo-script-feature.png)
 
-## [Tachyons](http://tachyons.io) is a design system that allows you to design gorgeous interfaces in the browser with little effort.
+## [Tachyons](https://tachyons.io) is a design system that allows you to design gorgeous interfaces in the browser with little effort.
 
 ---
 
@@ -38,13 +38,13 @@ In using this theme for your next static website project, you won't need to know
 anything about Tachyons ... so, don't freak out. Even though I used it to style
 the theme, you won't need to change a thing. BUT, if you do want to play around
 with it, you can make massive changes very easily. Just familiarize yourself
-with the [clear documentation on the design system](http://tachyons.io/docs/).
+with the [clear documentation on the design system](https://tachyons.io/docs/).
 Once you dive in, you'll recognize all the classes I'm using in the markup.
 
 ### BYOTachyons
 
 One of the best features of Tachyons is the exhaustive [component
-library](https://www.tachyonstemplates.com/components/?selectedKind=AboutPages&selectedStory=AboutUs&full=0&down=0&left=1&panelRight=0)
+library](httpss://www.tachyonstemplates.com/components/?selectedKind=AboutPages&selectedStory=AboutUs&full=0&down=0&left=1&panelRight=0)
 contributed by the community. All those components are built to work with the
 Tachyons classes, so they will work in this theme too! You can copy/paste
 components in order to quickly block out a page, then fill in your content.
@@ -52,7 +52,7 @@ components in order to quickly block out a page, then fill in your content.
 ### Taste the Rainbow
 
 We've leveraged the [accessible color
-combinations](http://tachyons.io/docs/themes/skins/) included with Tachyons to
+combinations](https://tachyons.io/docs/themes/skins/) included with Tachyons to
 offer an easy way for you to setup your site using your favorite colors. In the
 site configuration file (`config.toml`), there is a full set of color parameters
 giving you control over the theme color scheme. For an option like `siteBgColor`
@@ -62,7 +62,7 @@ installing the theme.
 
 ```toml
 # basic color options: use only color names as shown in the
-# "Color Palette" section of http://tachyons.io/docs/themes/skins/
+# "Color Palette" section of https://tachyons.io/docs/themes/skins/
 siteBgColor = "near-white"
 sidebarBgColor = "light-gray"
 headingColor = "black"
