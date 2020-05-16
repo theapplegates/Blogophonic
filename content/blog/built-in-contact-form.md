@@ -19,7 +19,7 @@ layout: single
 
 ![Formspree Logo](/blog/assets/formspree-logo.png)
 
-## [Formspree](httpss://formspree.io) makes it easy to receive submissions from HTML forms on your static website.
+## [Formspree](https://formspree.io) makes it easy to receive submissions from HTML forms on your static website.
 
 ---
 

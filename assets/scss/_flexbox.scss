@@ -20,7 +20,7 @@
 .inline-flex { display: inline-flex; }
 
 /* 1. Fix for Chrome 44 bug.
- * httpss://code.google.com/p/chromium/issues/detail?id=506893 */
+ * https://code.google.com/p/chromium/issues/detail?id=506893 */
 .flex-auto {
   flex: 1 1 auto;
   min-width: 0; /* 1 */

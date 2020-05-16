@@ -44,7 +44,7 @@ Once you dive in, you'll recognize all the classes I'm using in the markup.
 ### BYOTachyons
 
 One of the best features of Tachyons is the exhaustive [component
-library](httpss://www.tachyonstemplates.com/components/?selectedKind=AboutPages&selectedStory=AboutUs&full=0&down=0&left=1&panelRight=0)
+library](https://www.tachyonstemplates.com/components/?selectedKind=AboutPages&selectedStory=AboutUs&full=0&down=0&left=1&panelRight=0)
 contributed by the community. All those components are built to work with the
 Tachyons classes, so they will work in this theme too! You can copy/paste
 components in order to quickly block out a page, then fill in your content.

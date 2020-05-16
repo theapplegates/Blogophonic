@@ -1,8 +1,8 @@
-# _Blogophonic_ - a Hugo blog theme by [Formspree](httpss://formspree.io)
+# _Blogophonic_ - a Hugo blog theme by [Formspree](https://formspree.io)
 
 A modern, beautiful, and easily configurable blog theme for Hugo that includes a dedicated page with a functional contact form.
 
-**See the demo [here](httpss://blogophonic-hugo.netlify.com)**
+**See the demo [here](https://blogophonic-hugo.netlify.com)**
 
 ![screenshot](static/img/screenshot.png)
 
@@ -187,14 +187,14 @@ $borderColorCustom: #c4beb9;
 ## Usage
 
 ```bash
-git clone httpss://github.com/formspree/blogophonic-hugo.git themes/blogophonic
+git clone https://github.com/formspree/blogophonic-hugo.git themes/blogophonic
 ```
 
 ## License & Attribution
 
-<a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="httpss://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="https://purl.org/dc/terms/" property="dct:title">Blogophonic</span> by <a xmlns:cc="https://creativecommons.org/ns#" href="httpss://formspree.io" property="cc:attributionName" rel="cc:attributionURL">Formspree</a> is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="https://purl.org/dc/terms/" href="httpss://github.com/formspree/blogophonic-hugo" rel="dct:source">httpss://github.com/formspree/blogophonic-hugo</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="https://purl.org/dc/terms/" property="dct:title">Blogophonic</span> by <a xmlns:cc="https://creativecommons.org/ns#" href="https://formspree.io" property="cc:attributionName" rel="cc:attributionURL">Formspree</a> is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="https://purl.org/dc/terms/" href="https://github.com/formspree/blogophonic-hugo" rel="dct:source">https://github.com/formspree/blogophonic-hugo</a>.
 
 Additionally the following assets have separate licenses:
 
-- **Blogophonic Logo:** "Blog" (in black) by [Alex Berkowitz](httpss://thenounproject.com/term/blog/19895) from the Noun Project. Licensed under [CC-BY-3.0](httpss://creativecommons.org/licenses/by/3.0/us/legalcode). 
-- **Social Icons:** Free SVG icons for popular brands by [Simple Icons](httpss://simpleicons.org). Licensed under [CC0-1.0](httpss://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md).
+- **Blogophonic Logo:** "Blog" (in black) by [Alex Berkowitz](https://thenounproject.com/term/blog/19895) from the Noun Project. Licensed under [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/us/legalcode). 
+- **Social Icons:** Free SVG icons for popular brands by [Simple Icons](https://simpleicons.org). Licensed under [CC0-1.0](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md).
